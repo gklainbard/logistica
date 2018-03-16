@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e96672af-fde5-4b2d-b1d9-4d017b7ff1f5" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/videos/backgroundF.mp4" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Index.html" afterPath="$PROJECT_DIR$/Index.html" />
+      <change beforePath="$PROJECT_DIR$/images/trees.JPG" afterPath="$PROJECT_DIR$/images/trees.JPG" />
+      <change beforePath="$PROJECT_DIR$/larga.html" afterPath="$PROJECT_DIR$/larga.html" />
+      <change beforePath="$PROJECT_DIR$/thumbnail-gallery.css" afterPath="$PROJECT_DIR$/thumbnail-gallery.css" />
+      <change beforePath="$PROJECT_DIR$/urbana.html" afterPath="$PROJECT_DIR$/urbana.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -19,8 +25,8 @@
       <file leaf-file-name="urbana.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/urbana.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2921">
-              <caret line="127" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="7" />
+            <state relative-caret-position="322">
+              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -29,8 +35,8 @@
       <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+            <state relative-caret-position="1445">
+              <caret line="81" column="9" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -39,8 +45,8 @@
       <file leaf-file-name="thumbnail-gallery.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="943">
-              <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+            <state relative-caret-position="161">
+              <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -49,18 +55,18 @@
       <file leaf-file-name="larga.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/larga.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="322">
+              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="521.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Tables/521.html">
+        <entry file="file://$PROJECT_DIR$/521.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+            <state relative-caret-position="1633">
+              <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -90,11 +96,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/INDEX.html" />
+        <option value="$PROJECT_DIR$/Tables/521.html" />
         <option value="$PROJECT_DIR$/urbana.html" />
         <option value="$PROJECT_DIR$/larga.html" />
         <option value="$PROJECT_DIR$/thumbnail-gallery.css" />
         <option value="$PROJECT_DIR$/Index.html" />
-        <option value="$PROJECT_DIR$/Tables/521.html" />
+        <option value="$PROJECT_DIR$/521.html" />
       </list>
     </option>
   </component>
@@ -108,10 +115,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="210" />
-    <option name="y" value="47" />
+    <option name="x" value="214" />
+    <option name="y" value="101" />
     <option name="width" value="1336" />
-    <option name="height" value="1000" />
+    <option name="height" value="854" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -143,7 +150,7 @@
             <path>
               <item name="logistica" type="b2602c69:ProjectViewProjectNode" />
               <item name="logistica" type="462c0819:PsiDirectoryNode" />
-              <item name="Tables" type="462c0819:PsiDirectoryNode" />
+              <item name="videos" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -163,11 +170,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\videos" />
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images" />
       <recent name="C:\Users\guillermo.klainbard\WebstormProjects\untitled2\images" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica" />
       <recent name="C:\Users\guillermo.klainbard\WebstormProjects\untitled2\images" />
     </key>
   </component>
@@ -215,7 +224,15 @@
       <workItem from="1521206442965" duration="1789000" />
       <workItem from="1521208254259" duration="1643000" />
       <workItem from="1521210208922" duration="1799000" />
-      <workItem from="1521212034979" duration="467000" />
+      <workItem from="1521212034979" duration="1088000" />
+      <workItem from="1521227256842" duration="1787000" />
+      <workItem from="1521229117545" duration="1787000" />
+      <workItem from="1521231011956" duration="1114000" />
+      <workItem from="1521232830740" duration="1694000" />
+      <workItem from="1521234701708" duration="1230000" />
+      <workItem from="1521235961710" duration="1781000" />
+      <workItem from="1521237767677" duration="1786000" />
+      <workItem from="1521239586894" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="change of typo">
       <created>1521154129870</created>
@@ -259,14 +276,21 @@
       <option name="project" value="LOCAL" />
       <updated>1521211906439</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Creation of final mockups">
+      <created>1521212518377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1521212518377</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23918000" />
+    <option name="totallyTimeSpent" value="36559000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="210" y="47" width="1336" height="1000" extended-state="0" />
+    <frame x="214" y="101" width="1336" height="854" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26136363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -306,6 +330,16 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/521.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1771">
+          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/urbana.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2921">
@@ -338,7 +372,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/521.html">
+    <entry file="file://$PROJECT_DIR$/521.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1081">
           <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
@@ -380,7 +414,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/521.html">
+    <entry file="file://$PROJECT_DIR$/521.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
           <caret line="16" column="69" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
@@ -422,7 +456,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/521.html">
+    <entry file="file://$PROJECT_DIR$/521.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
           <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
@@ -656,42 +690,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urbana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2921">
-          <caret line="127" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="7" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/trees.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/larga.html">
+    <entry file="file://$PROJECT_DIR$/images/busFar.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urbana.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="322">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        <state relative-caret-position="161">
+          <caret line="55" column="22" lean-forward="true" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
+        <state relative-caret-position="1445">
+          <caret line="81" column="9" lean-forward="true" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tables/521.html">
+    <entry file="file://$PROJECT_DIR$/larga.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="77" column="8" lean-forward="true" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        <state relative-caret-position="322">
+          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/521.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1633">
+          <caret line="71" column="8" lean-forward="true" selection-start-line="71" selection-start-column="8" selection-end-line="71" selection-end-column="8" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
