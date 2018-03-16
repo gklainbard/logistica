@@ -31,14 +31,15 @@ body {
     background-color: #f0f0f0;
     border-radius: 4px;
     border: none;
-    filter: grayscale(100%);
+    filter: grayscale(0%);
     transition: 0.15s ease-in-out;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
 }
 
 .tz-gallery .thumbnail:hover {
     transform: translateY(-10px) scale(1.02);
-    filter: grayscale(10%);
+    filter: grayscale(100%) brightness(90%);
+    .z-depth-5;
 }
 
 .tz-gallery .lightbox img {
