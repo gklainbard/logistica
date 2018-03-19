@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recorridos 519 y 520</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+    <link rel="stylesheet" href="thumbnail-gallery.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/style.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/mdb.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/bootstrap.css">
+    <link rel="icon" href="images/iso.png">
+</head>
+<body style="background-color: #ffffff">
+<!--
+ Insertamos fragmento de MDBootstrap a ver si funciona
+ -->
+<!-- Jumbotron -->
+<div class="row mb-5">
+    <div class="col-md-12">
+        <div class="card card-image" style="background-image: url(images/busChico.JPG); background-size: cover;">
+            <div class="text-white text-center rgba-stylish-strong py-5 px-4">
+                <div class="py-5">
+
+                    <!--Content-->
+                    <h3 class="orange-text font-bold">Iselin 519</h3>
+                    <h1 class="card-title pt-3 mb-5 font-bold">Planillas de Trabajo y Turnos</h1>
+                    <p class="px-5 pb-4" style="font-size: medium" >San Rafael - La Llave por Goudge</p>
+                    <a href="Index.html" class="btn peach-gradient" dir="ltr" style="font-size: medium"><i class="fa fa-clone left"></i> Inicio</a>
+                    <a href="larga.html" class="btn peach-gradient" dir="ltr" style="font-size: medium"><i class="fa fa-clone left"></i> Media y Larga Distancia</a>
+                    <!--Content-->
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Insertamos la gallery con lightbox-->
+<div class="tz-gallery">
+
+    <div class="media" style="padding-bottom: 50px">
+        <img class="mr-3" src="images/iso_small.png" alt="Iselin">
+        <div class="media-body">
+            <h2 class="mt-0" style="color: #000; text-shadow: gray 4px 1px 14px">Hábil</h2>
+            <h2 style="color: #000; text-shadow: gray 4px 1px 14px">Planillas de Trabajo y Turnos.</h2>
+        </div>
+    </div>
+
+    <div class="row">
+
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail">
+                <a class="lightbox" href="images/sheets/519/1R19Hab.jpg">
+                    <img src="images/thumbNaranjas/1R19Hab_tn.jpg" alt="1R19 Hábil">
+                </a>
+                <div class="caption">
+                    <h3>1R19</h3>
+                    <p>Hábil</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail">
+                <a class="lightbox" href="images/sheets/519/2R19Hab.jpg">
+                    <img src="images/thumbNaranjas/2R19Hab_tn.jpg" alt="2R19 Hábil">
+                </a>
+                <div class="caption">
+                    <h3>2R19</h3>
+                    <p>Hábil</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="media" style="padding-bottom: 50px">
+        <img class="mr-3" src="images/iso_small.png" alt="Iselin">
+        <div class="media-body">
+            <h2 class="mt-0" style="color: #000000; text-shadow: 4px 1px 14px">Sábados</h2>
+            <h2 style="color: #000000; text-shadow: 4px 1px 14px ">Planillas de Trabajo y Turnos.</h2>
+        </div>
+    </div>
+    <div class="row">
+
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail">
+                <a class="lightbox" href="images/sheets/519/Sab/1R19Sab.jpg">
+                    <img src="images/thumbNaranjas/1R19Sab_tn.jpg" alt="1R19 Sábado">
+                </a>
+                <div class="caption">
+                    <h3>1R19</h3>
+                    <p>Sábados</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-6">
+            <div class="thumbnail">
+                <a class="lightbox" href="images/sheets/519/Sab/2R19Sab.jpg">
+                    <img src="images/thumbNaranjas/2R19Sab_tn.jpg" alt="2R19 Sábado">
+                </a>
+                <div class="caption">
+                    <h3>2R19</h3>
+                    <p>Sábados</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+</div>
+
+<!-- Colocamos los scripts-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+<script>
+    baguetteBox.run('.tz-gallery');
+</script>
+</body>
+</html>

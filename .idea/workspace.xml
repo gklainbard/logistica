@@ -2,9 +2,162 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e96672af-fde5-4b2d-b1d9-4d017b7ff1f5" name="Default" comment="Full Version 2 con todas las animaciones y vinculos">
-      <change beforePath="" afterPath="$PROJECT_DIR$/521.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/iso.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/511.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/512.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/513.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/514.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/515.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/516.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/517.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/518.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/519.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Amapola.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Sosneado.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/115L.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/iso_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/512/HabSab.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/514/R14-MOLINO-BºAMSA.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/515/Invierno.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/515/Verano.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/516/Invierno.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/516/Verano.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/517/Habil.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/518/CrtRAtuel.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/518/HabSabDom.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/1R19Hab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/1R20MHab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/1R20THab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/1R76Hab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/2R19Hab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/2R20Hab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Dom/1R20Dom.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Dom/2R20Dom.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Dom/3R20Dom.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Sab/1R19Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Sab/1R20Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Sab/1R76Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Sab/2R19Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/519/Sab/2R20Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/1R21H.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/2R21MH.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/2R21TH.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/3R21H.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/4R21H.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/5R21H.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/6R21H.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Dom/2R21D.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Dom/4R21D.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Dom/5R21D.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/1R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/2R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/3R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/4R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/5R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/521/Sab/6R21S.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/522/1R22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/522/3R22.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/1R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/3R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/5R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/7R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Dom/1R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Dom/3R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Dom/5R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Dom/7R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Sab/1R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Sab/3R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Sab/5R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/523/Sab/7R23.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/524/1R24.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Amapola/Amapola Hab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Amapola/Amapola Sab.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Bº Sosneado/Sosneado.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/Domingo.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/Habil.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/Habil.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/Nocturnos.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/SabTarde.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/RamaCaida/SabTardeNoct.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/20R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/21R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/22R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/23R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/24R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/25R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/26R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/27R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/28R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/sheets/Refuerzos Urbanos/29R11.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R19Hab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R19Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R20Dom_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R20MHab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R20Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R20THab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R21H_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R22_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R23_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R24_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R76Hab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/1R76Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/20R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/21R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/22R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/23R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/24R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/25R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/26R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/27R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/28R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/29R11_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R19Hab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R19Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R20Dom_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R20Hab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R20Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R21D_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R21MH_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/2R21TH_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/3R20Dom_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/3R21H_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/3R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/3R22_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/3R23_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/4R21D_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/4R21H_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/4R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/512-HS_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/513-HabSabDom_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/515-Invierno_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/515-Verano_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/516-Invierno_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/516-Verano_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/517Habil_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/518-CrtRAtuel_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/518-HabSabDom_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/5R21D_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/5R21H_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/5R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/5R23_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/6R21H_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/6R21S_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/7R23_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Amapola Hab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Amapola Sab_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Domingo_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Habil_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Nocturnos_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/R14-MOLINO-BºAMSA_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/SabTardeNoct_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/SabTarde_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/thumbNaranjas/Sosneado_tn.jpg" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/images/urbano.JPG" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/larga.html" afterPath="$PROJECT_DIR$/larga.html" />
+      <change beforePath="$PROJECT_DIR$/thumbnail-gallery.css" afterPath="$PROJECT_DIR$/thumbnail-gallery.css" />
+      <change beforePath="$PROJECT_DIR$/urbana.html" afterPath="$PROJECT_DIR$/urbana.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,22 +171,82 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="urbana.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urbana.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/urbana.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="2231">
+              <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Index.html">
+      <file leaf-file-name="Amapola.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Amapola.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1863">
-              <caret line="81" column="9" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="299">
+              <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="511.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/511.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2484">
+              <caret line="108" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="518.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/518.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="920">
+              <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="519.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/519.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -41,8 +254,8 @@
       <file leaf-file-name="thumbnail-gallery.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1265">
-              <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
+            <state relative-caret-position="98">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -51,36 +264,20 @@
       <file leaf-file-name="larga.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/larga.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="161">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="521.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/521.html">
+      <file leaf-file-name="517.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/517.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="74" column="105" lean-forward="false" selection-start-line="74" selection-start-column="105" selection-end-line="74" selection-end-column="105" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="125">
+              <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+              <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="busFar.JPG" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/busFar.JPG">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iso.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/iso.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -107,11 +304,22 @@
       <list>
         <option value="$PROJECT_DIR$/INDEX.html" />
         <option value="$PROJECT_DIR$/Tables/521.html" />
-        <option value="$PROJECT_DIR$/urbana.html" />
-        <option value="$PROJECT_DIR$/larga.html" />
-        <option value="$PROJECT_DIR$/thumbnail-gallery.css" />
         <option value="$PROJECT_DIR$/Index.html" />
         <option value="$PROJECT_DIR$/521.html" />
+        <option value="$PROJECT_DIR$/514.html" />
+        <option value="$PROJECT_DIR$/Amapola.html" />
+        <option value="$PROJECT_DIR$/513.html" />
+        <option value="$PROJECT_DIR$/Sosneado.html" />
+        <option value="$PROJECT_DIR$/512.html" />
+        <option value="$PROJECT_DIR$/511.html" />
+        <option value="$PROJECT_DIR$/515.html" />
+        <option value="$PROJECT_DIR$/516.html" />
+        <option value="$PROJECT_DIR$/517.html" />
+        <option value="$PROJECT_DIR$/518.html" />
+        <option value="$PROJECT_DIR$/urbana.html" />
+        <option value="$PROJECT_DIR$/519.html" />
+        <option value="$PROJECT_DIR$/thumbnail-gallery.css" />
+        <option value="$PROJECT_DIR$/larga.html" />
       </list>
     </option>
   </component>
@@ -125,10 +333,10 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="214" />
-    <option name="y" value="101" />
+    <option name="x" value="49" />
+    <option name="y" value="236" />
     <option name="width" value="1336" />
-    <option name="height" value="854" />
+    <option name="height" value="750" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -146,6 +354,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,7 +381,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -185,13 +393,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\videos" />
-      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images" />
-      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\untitled2\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica" />
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\untitled2\images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images" />
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images\thumbNaranjas" />
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\images\sheets" />
+      <recent name="C:\Users\guillermo.klainbard\WebstormProjects\logistica\videos" />
       <recent name="C:\Users\guillermo.klainbard\WebstormProjects\untitled2\images" />
     </key>
   </component>
@@ -248,7 +458,12 @@
       <workItem from="1521235961710" duration="1781000" />
       <workItem from="1521237767677" duration="1786000" />
       <workItem from="1521239586894" duration="1782000" />
-      <workItem from="1521488714011" duration="133000" />
+      <workItem from="1521488714011" duration="1781000" />
+      <workItem from="1521491771559" duration="1785000" />
+      <workItem from="1521493580407" duration="1785000" />
+      <workItem from="1521495390317" duration="1788000" />
+      <workItem from="1521497205407" duration="1786000" />
+      <workItem from="1521499018282" duration="1144000" />
     </task>
     <task id="LOCAL-00001" summary="change of typo">
       <created>1521154129870</created>
@@ -306,17 +521,26 @@
       <option name="project" value="LOCAL" />
       <updated>1521240480637</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Full Version 2 con todas las animaciones y vinculos">
+      <created>1521488863577</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1521488863577</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37633000" />
+    <option name="totallyTimeSpent" value="47569000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="214" y="101" width="1336" height="854" extended-state="0" />
+    <frame x="49" y="236" width="1336" height="750" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26136363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26136363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32852563" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -353,98 +577,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/urbana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2921">
-          <caret line="127" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/larga.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/521.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1081">
-          <caret line="47" column="27" lean-forward="false" selection-start-line="47" selection-start-column="27" selection-end-line="47" selection-end-column="27" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urbana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2921">
-          <caret line="127" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="30" column="59" lean-forward="false" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="943">
-          <caret line="41" column="4" lean-forward="false" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/larga.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/521.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" column="69" lean-forward="false" selection-start-line="16" selection-start-column="69" selection-end-line="16" selection-end-column="69" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/urbana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2921">
-          <caret line="127" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="127" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="943">
@@ -457,7 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
           <caret line="30" column="59" lean-forward="true" selection-start-line="30" selection-start-column="59" selection-end-line="30" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -465,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -473,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1127">
           <caret line="49" column="21" lean-forward="true" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -491,7 +618,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="943">
           <caret line="41" column="63" lean-forward="false" selection-start-line="41" selection-start-column="63" selection-end-line="41" selection-end-column="63" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -507,7 +633,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="72" lean-forward="true" selection-start-line="6" selection-start-column="72" selection-end-line="6" selection-end-column="72" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -547,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1219">
           <caret line="53" column="92" lean-forward="false" selection-start-line="53" selection-start-column="82" selection-end-line="53" selection-end-column="92" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -571,7 +695,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1311">
           <caret line="57" column="59" lean-forward="false" selection-start-line="57" selection-start-column="59" selection-end-line="57" selection-end-column="59" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -587,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -611,7 +733,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -643,7 +764,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
           <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +779,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="920">
           <caret line="40" column="33" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="37" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,36 +827,9 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/urbana.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1265">
-          <caret line="55" column="22" lean-forward="false" selection-start-line="55" selection-start-column="22" selection-end-line="55" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1863">
-          <caret line="81" column="9" lean-forward="false" selection-start-line="78" selection-start-column="0" selection-end-line="81" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/larga.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="43" lean-forward="false" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/iso.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/busFar.JPG">
@@ -745,18 +837,154 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/iso.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/514.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="63" column="0" lean-forward="false" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/513.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sosneado.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="62" column="13" lean-forward="false" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/515.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="77" column="7" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="77" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/516.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1426">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/521.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="74" column="105" lean-forward="false" selection-start-line="74" selection-start-column="105" selection-end-line="74" selection-end-column="105" />
+        <state relative-caret-position="414">
+          <caret line="24" column="23" lean-forward="false" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/512.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/518.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="920">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amapola.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="7" lean-forward="false" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/511.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="108" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="108" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" column="6" lean-forward="true" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/519.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#1;n#div#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thumbnail-gallery.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/larga.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/517.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="59" column="13" lean-forward="false" selection-start-line="59" selection-start-column="13" selection-end-line="59" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/urbana.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2231">
+          <caret line="100" column="37" lean-forward="false" selection-start-line="100" selection-start-column="37" selection-end-line="100" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>

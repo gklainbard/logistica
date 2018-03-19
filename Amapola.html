@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recorrido 511</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.css">
+    <link rel="stylesheet" href="thumbnail-gallery.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/style.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/mdb.css">
+    <link rel="stylesheet" href="node_modules/mdbootstrap/css/bootstrap.css">
+    <link rel="icon" href="images/iso.png">
+</head>
+<body style="background-color: #202326">
+    <!--
+     Insertamos fragmento de MDBootstrap a ver si funciona
+     -->
+    <!-- Jumbotron -->
+    <div class="row mb-5">
+        <div class="col-md-12">
+            <div class="card card-image" style="background-image: url(images/busChico.JPG); background-size: cover;">
+                <div class="text-white text-center rgba-stylish-strong py-5 px-4">
+                    <div class="py-5">
+
+                        <!--Content-->
+                        <h3 class="orange-text font-bold">Iselin 511</h3>
+                        <h1 class="card-title pt-3 mb-5 font-bold">Planillas de Trabajo y Turnos</h1>
+                        <p class="px-5 pb-4" style="font-size: medium" >Amapola - Cuadro Nacional por Sol de Mayo</p>
+                        <a href="Index.html" class="btn peach-gradient" dir="ltr" style="font-size: medium"><i class="fa fa-clone left"></i> Inicio</a>
+                        <a href="urbana.html" class="btn peach-gradient" dir="ltr" style="font-size: medium"><i class="fa fa-clone left"></i> Recorridos Urbanos</a>
+                        <!--Content-->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Insertamos la gallery con lightbox-->
+    <div class="tz-gallery">
+
+        <div class="row">
+
+            <div class="col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <a class="lightbox" href="images/sheets/Amapola/Amapola%20Hab.jpg">
+                        <img src="images/thumbNaranjas/Amapola%20Hab_tn.jpg" alt="2R11 - 4R11 - 6R11 - 8R11">
+                    </a>
+                    <div class="caption">
+                        <h3>2R11 - 4R11 - 6R11 - 8R11</h3>
+                        <p>Hábil</p>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-6 col-md-6">
+                <div class="thumbnail">
+                    <a class="lightbox" href="images/sheets/Amapola/Amapola%20Sab.jpg">
+                        <img src="images/thumbNaranjas/Nocturnos_tn.jpg" alt="2R11 - 4R11 - 6R11 - 8R11">
+                    </a>
+                    <div class="caption">
+                        <h3>2R11 - 4R11 - 6R11 - 8R11</h3>
+                        <p>Sábados</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Colocamos los scripts-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.8.1/baguetteBox.min.js"></script>
+    <script>
+        baguetteBox.run('.tz-gallery');
+    </script>
+</body>
+</html>
